@@ -1,0 +1,32 @@
+export const Colors = {
+  primary: '#6C63FF',
+  primaryLight: '#A89CFF',
+  primaryDark: '#4B44CC',
+  success: '#4CAF50',
+  warning: '#FF9800',
+  danger: '#F44336',
+  background: '#F8F7FF',
+  surface: '#FFFFFF',
+  surfaceAlt: '#F0EEFF',
+  text: '#1A1A2E',
+  textSecondary: '#6B6B8A',
+  textMuted: '#A0A0B5',
+  border: '#E8E4FF',
+  streak: '#FF6B35',
+  streakLight: '#FFE5D9',
+  checkmark: '#4CAF50',
+  shadow: 'rgba(108, 99, 255, 0.15)',
+};
+
+export const HabitColors = [
+  '#6C63FF',
+  '#FF6B6B',
+  '#4CAF50',
+  '#FF9800',
+  '#00BCD4',
+  '#E91E63',
+  '#9C27B0',
+  '#FF5722',
+  '#009688',
+  '#3F51B5',
+];
